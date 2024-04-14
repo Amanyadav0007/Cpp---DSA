@@ -1,4 +1,9 @@
 // wap for Hollow Rectangle Pattern in c++.
+// * * * * 
+// *     * 
+// *     * 
+// *     * 
+// * * * * 
 
 #include <iostream>
 using namespace std;
